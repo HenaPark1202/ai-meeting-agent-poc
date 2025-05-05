@@ -9,7 +9,17 @@ KT DS / MS AI Tech team
 
 
 
-# 3.START
+# 3.모드별 상세 설명
+### realtime
+- Speech SDK ConversationTranscriber
+- 회의종료시) Ctrl+C 혹은 "이제 회의를 종료하겠습니다."
+- 결과: results/
+
+### batch
+- Speech Batch Transcription API
+- 결과: results/
+
+# Code
 
 ```
 git clone
